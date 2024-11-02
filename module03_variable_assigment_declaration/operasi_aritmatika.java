@@ -36,5 +36,6 @@ public class operasi_aritmatika {
         System.out.println(variable1 + " % " + variable2 + " = " + hasil);
 
 
+
     }
 }
